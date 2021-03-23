@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Ivan Ivanov
-    tagline: Full Stack Developer
+    tagline: Junior Java Developer
     avatar: profilepic.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -30,10 +30,10 @@ sidebar:
         level: Intermediate
 
     interests:
-      - item: Climbing
+      - item: Hiking, Camping
         link:
 
-      - item: Snowboarding
+      - item: Computer Games, Board Games
         link:
 
       - item: Cooking
@@ -42,12 +42,9 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I'm looking for a developer position. I have took courses of Java Basics and Java OOP, as well
+      as Spring Foundamentals. I've worked in a few different techincal positions and I hope I can
+      improve further.
 education:
     - degree: Bachelor degree in International Business Relations
       university: IBSEDU - Botevgrad
@@ -69,16 +66,16 @@ education:
  #         - Bullet point
  #         - Bullet point
 experiences:
-    - role: Lead Developer
+    - role: Quality Assurance Specialist
       time: Dec 2017 - Present
-      company: Startup Hubs, San Francisco
+      company: Ipsos Interactive Services, Sofia
       details: |
         Quality assistance by testing scripts using additional script for verifying the cleanliness
         of the data. Validating a database and making sure there aren't any issues.
 
     - role: Technical Support
       time: Mar 2016 - Sep 2017
-      company: Hostway Services, Inc
+      company: Hostway Services, Sofia
       details: |
         Assisting customers with techincal problems regarding domain name management,
         web hosting management, email services and related issues.
